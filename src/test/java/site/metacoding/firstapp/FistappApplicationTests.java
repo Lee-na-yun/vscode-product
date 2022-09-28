@@ -1,4 +1,4 @@
-package site.metacoding.fistapp;
+package site.metacoding.firstapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
